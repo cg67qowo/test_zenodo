@@ -1,0 +1,28 @@
+{
+    "creators": [ 
+        {
+            "orcid": "0000-0002-1825-0098",
+            "organisation": "Saxon Academy of Sciences and Humanities",
+            "name": "Pudel Rudel"
+        },
+        {
+            "orcid": "0000-0002-1825-0099",
+            "organisation": "Saxon Academy of Sciences and Humanities",
+            "name": "Cecilia Graiff"
+        }
+    ],
+    "SPDX-license": "Apache-2.0",
+    "title": "My Awesome Data Model",
+    "rights": "Saxon Academy of Sciences and Humanities",
+    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "uri":"www.pudel.pu/mydata"
+            "relation": "isDocumentedBy"
+        }
+    ],
+    "related_data": [
+        {"research field": "digital humanities"},
+        {"description":"Pudel is a publication service for academic vocabularies and data models."}
+    ]
+}
